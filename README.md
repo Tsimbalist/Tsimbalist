@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет, я V1aoko! 👋
 
-<!--
-**Tsimbalist/Tsimbalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Мой бот в telegram: [@V1aokoBot](https://t.me/V1aokoBot)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### В чём разбираюсь
+<code><img height="20" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></code>
+<code><img height="20" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="20" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="20" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
+<code><img height="20" alt="PS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></code>    
+#### Мои пройденные курсы
+| Курсы | Время |
+| ----- | ----- |
+| Лицей Академии Яндекса (Python) | Продолжается |
+| IT - Куб "Программирование на Python" | 2022 - 2023 (144ч.) |
